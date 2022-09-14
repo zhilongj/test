@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FIT51711" />
+        <module name="Assignment2-code-base-adjusted" />
+        <module name="FIT5171Assignment2" />
+        <module name="Assignment2-code-base1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Assignment2-code-base" target="18" />
+      <module name="FIT5171Assignment21" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
